@@ -75,6 +75,6 @@ This project focuses on backend recommendation logic and model development. A gr
 
 ---
 
-## 📚 Project Type
+## Project Type
 Final Year Research Project  
 AI-Powered Tourism Recommendation System
